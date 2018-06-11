@@ -1,2 +1,2 @@
 # DataStructures-in-C
-C implementation for various data structures - purely learning objective
+C implementation for various data structures - goal is purely educational
